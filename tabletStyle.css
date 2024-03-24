@@ -1,0 +1,47 @@
+@media (max-width:980px) {
+    .container{
+        max-width: 760px;
+    }
+
+    .fast{
+        flex-wrap: wrap;
+    }
+
+    .us{
+        flex-wrap: wrap;
+    }
+
+    .foot{
+        column-gap: 50px;
+    }
+
+    .bit{
+        margin-left: 0;
+    }
+
+    .con-us{
+        width: 60%;
+        margin-bottom: 40px;
+    }
+
+    .order{
+        flex-wrap: wrap;
+        flex-direction: column;
+        row-gap: 50px;
+    }
+
+    .now{
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .txt .h2,.pp{
+        text-align: center;
+    }
+
+    .type{
+        flex-wrap: wrap;
+    }
+
+
+}
